@@ -2,4 +2,4 @@
 smart class
 RFID tag , real time puple detection, face recognition  in raspberry pi
 
-we will update code , soon 
+we will update code  
